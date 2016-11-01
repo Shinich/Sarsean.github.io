@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color:white;
 }
 a:hover {
     text-decoration: underline;
@@ -25,7 +25,6 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h4 {
-    color: black
     font-family:'Helvetica', 'Arial', 'Sans-Serif';   
 }
 p {
@@ -49,7 +48,7 @@ ul.posts li {
 
 
 html {
-background: #505D6E url("http://www.nasa.gov/sites/default/files/thumbnails/image/marsglobe1.jpg") no-repeat center center fixed;
+background: #333 url("http://www.nasa.gov/sites/default/files/thumbnails/image/marsglobe1.jpg") no-repeat center center fixed;
 min-height: 100%;
   -webkit-background-size: cover;
     -moz-background-size: cover;
